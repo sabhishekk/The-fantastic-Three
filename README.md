@@ -1,0 +1,5 @@
+# The-fantastic-Three
+We are trying to make a simple supply chain for connecting local potters, artists, and painters in such a way that their reach in the market increases.
+As we all know, the small business of artisans is being reduced day by day by changing and ever-developing technology. Can you remember buying an earthen pot or making a custom friendship band from a roadside artisan? No, just because they don't have a fancy brand name or flash across your TV screen during an ad break.
+So, for solving this we are making a supply chain. Our chain consists of three members: manufacturers, the management team, and the consumers, further the teams are divided into subgroups. The manufacturing teams contain potters, artists, and painters. Whereas the management team holds responsibility for taking orders, handling financials, and maintaining technical aspects.
+The chain will be nuclear and operate only in the local area of the artisans, reducing the problems related to transportation and packing. The chain has potential to provide the local artisans with a better marketplace and help them develop their financial situation.
